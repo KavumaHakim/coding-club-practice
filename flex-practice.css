@@ -28,11 +28,6 @@
     border: 1px solid gray;
 }
 
-* {
-    /* styling all the elements at once */
-    /* text-decoration: line-through; */
-}
-
 #specificColor {
     color: brown;
 }
