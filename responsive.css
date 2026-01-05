@@ -22,6 +22,7 @@
     flex-direction: column;
 }
 
+/* Media Queries */
 /* Targeting mobile phones */
 @media (max-width:677px) {
     h1 {
